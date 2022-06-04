@@ -1,5 +1,5 @@
 # Konwerter
-Konwerter systemów liczbowych od binarnego do dziesiątkowego
+Konwerter systemów liczbowych od binarnego do dziesiątkowego napisany w języku Python
 
 W folderze dist znajduje się gotowy program uruchamiany po kliknięciu w ikonę
 
